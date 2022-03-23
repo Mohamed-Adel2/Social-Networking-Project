@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648068822 source:c:\users\owner\desktop\projects\socialnetworking\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+
